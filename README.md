@@ -1,5 +1,6 @@
 - 👋 Olá, me chamo @caiohonda123
 - 👀 Sou um aspirante a desenvolvedor web
+- Conhecimento itermediário em HTML e CSS e iniciante em JS.
 - 🌱 Estou lendo atualmente O Poder do Hábito
 -  Estou a procura de uma vaga de emprego na área de TI, especialmente na área de desenvolvimento Web afim de adiquirir mais experiências e troca de informação com pessoas aptas nessa área
 - Meus hobs são passar um tempo com a família e amigos e jogar no celular nas horas vagas.
